@@ -31,4 +31,4 @@
     ![img_5.png](img_5.png)
 15. To delete the vagrant box: `vagrant destroy rhel9`
     ![img_6.png](img_6.png)
-    
+16. Youtube video demo: https://youtu.be/7FYm10dpIUo 
