@@ -1,5 +1,5 @@
 IMAGE_NAME = "generic/rhel9"    # Base image of VM which is vagrant box of RHEL 9 as default.
-BOX_VERSION = "4.3.8"           # Base image version of above image as, 4.2.16
+BOX_VERSION = "4.3.2"           # Base image version of above image as, 4.2.16
 VM = "rhel9"                    # Name of VM
 CPU_VM = 4                      # Specify the CPU of VM (Example: 1, 2)
 MEMORY_VM = 4096                # Specify the RAM of VM in MB (Example: 2048, 4096)
